@@ -1,0 +1,11 @@
+.panda-bg-info{
+    background-color: #FEEAE9;
+}
+.panda-btn-buy-now{
+    /* background-color: #ff136f; */
+    background: rgb(255,88,155);
+background: linear-gradient(90deg, rgba(255,88,155,1) 100%, rgba(255,19,111,1) 100%);
+}
+.categories img{
+    width: 100px;
+}
